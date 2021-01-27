@@ -1,0 +1,11 @@
+exercicio missao
+
+1 mensagens de erro:
+* da caixa estar vazia
+* passo invalido
+
+2 contagem crescente
+
+3 contagem decrescente
+
+4 emojis
